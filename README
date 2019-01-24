@@ -1,0 +1,3 @@
+Closer to sorts elements of a vector according to a specific functor.
+The palindrome function can tell whether elments in a vector form a palindrome
+The unique function tells if every elements in a vector are only present once.
